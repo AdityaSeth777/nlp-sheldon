@@ -1,4 +1,7 @@
 # Can NLP and KR Solve Sheldon's Riddle?
+## This repo contains the code for this article :
+![https://adityaseth777.hashnode.dev/nlp-sheldon](https://cdn.hashnode.com/res/hashnode/image/upload/v1717672791853/d3233db9-7b68-4046-bae4-8930b7d60187.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+
 
 ## Project Overview
 
