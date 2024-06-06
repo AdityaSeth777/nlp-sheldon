@@ -19,7 +19,7 @@ This project consists of two main scripts:
 
 1. Clone the repository.
 2. Create a virtual environment and activate it.
-3. Install the required packages.
+3. Install the required packages, by using `pip install -r requirements.txt`
 
 ### Model and Tokenizer
 
