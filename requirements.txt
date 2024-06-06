@@ -1,0 +1,10 @@
+
+transformers
+tf-keras
+torch
+setuptools
+transformers[tf-cpu]
+transformers[torch]
+tokenizers
+repackage
+spacy
