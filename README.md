@@ -27,6 +27,12 @@ Ensure you have the pre-trained Google's t5 model and tokenizer saved in the `mo
 - `models/t5_model`
 - `models/t5_tokenizer`
 
+If not, use the train command to train and save the models.
+
+
+## Output
+![](./image/1717607383577.png)
+
 ## Usage
 
 ### Training
@@ -50,6 +56,7 @@ The `infer.py` script is used to generate responses based on the input text. Her
 
 1. **Model and Tokenizer Loading**: Loads the trained model and tokenizer from the `models` directory.
 2. **Generate Response Function**: Encodes the input text. Generates the response using the model. Decodes and returns the response.
+
 
 ## Contributing
 
